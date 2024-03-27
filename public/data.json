@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/NrB89kT/Book-1-resized.png",
+      "review": "A timeless classic exploring the complexities of adolescence and societal expectations. Holden Caulfield's journey is both poignant and thought-provoking.",
+      "totalPages": 277,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Coming-of-age", "Literary Fiction"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/tQG7scT/Book-2.png",
+      "review": "A dystopian masterpiece that remains eerily relevant. Orwell's depiction of a totalitarian regime serves as a chilling warning about the dangers of unchecked government power.",
+      "totalPages": 328,
+      "rating": 4.5,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/L8SCDZ8/Book-3.png",
+      "review": "A profound narrative addressing racial injustice and moral growth in the American South. Atticus Finch's integrity and empathy resonate with readers of all ages.",
+      "totalPages": 324,
+      "rating": 4.6,
+      "category": "Classics",
+      "tags": ["Legal Drama", "Southern Gothic"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/rH6y5nw/Book-4.png",
+      "review": "A glittering portrayal of the Jazz Age's excesses and the elusive American Dream. Fitzgerald's prose is as captivating as the enigmatic Jay Gatsby himself.",
+      "totalPages": 180,
+      "rating": 4.2,
+      "category": "Classics",
+      "tags": ["Romance", "Tragedy"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/nkYcj3Q/Book-5.png",
+      "review": "A delightful exploration of love, class, and societal norms in Regency England. Austen's wit and keen observation make this a timeless favorite.",
+      "totalPages": 279,
+      "rating": 4.7,
+      "category": "Romance",
+      "tags": ["Regency Era", "Social Commentary"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/FBScCmH/Book-6.png",
+      "review": "A captivating adventure through Middle-earth that transports readers to a realm of magic and heroism. Bilbo Baggins's journey is as heartwarming as it is thrilling.",
+      "totalPages": 310,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Quest"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
